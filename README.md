@@ -16,11 +16,4 @@
                     <h3>Who am I?</h3>
                     <h4>just a guy intrested in tech,food and music...<br/>hacker / Gamer /Web dev<br/>more @NoxZ ;)</h4>
         </div>
-        <div id="social">   
-        <a href="https://twitter.com/nox27000772" class="fa fa-twitter" target="_blank" id="tag"></a>
-        <a href="https://github.com/NoxZZ" class="fa fa-github" target="_blank" id="tag"></a>
-        <a href="https://www.linkedin.com/in/tanmay-nighoskar-6a0839150/" class="fa fa-linkedin" target="_blank"id="tag"></a>
-        <a href="https://www.instagram.com/_tanmay_nighoskar_/?hl=en" class="fa fa-instagram" target="_blank"id="tag"></a>
-    </div>
-    </body>
-</html>
+     
