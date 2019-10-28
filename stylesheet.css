@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: black !important;
+  
+}
+
+a{
+  color: aliceblue;
+}
+
+a:hover{
+  text-decoration: none !important;
+  outline: none;
+}
+a:focus{
+  outline: none;
+}
+
+#social{
+  float: none;  
+  padding-left: 550px;
+  padding-top: 160px; 
+}
+
+#tag{
+  margin: 20px;
+}
+
+.name{
+  padding-top: 80px;
+  padding-left: 80px;
+}
+#nox{
+  border: 20px;
+  padding-left:585px ;
+  margin-bottom: 125px;
+  font-size:70px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+h3{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+h4{
+  font-family: 'Courier New', Courier, monospace;
+  color: grey;
+}
+
+#aboutMe{
+  color: white;
+  padding:550px 50px;
+  margin-top: 15%;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px 2px;
+  border-radius: 50%;
+  border-collapse: separate;
+}
+
+.fa:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+  transition: 0.3s;
+  border-collapse: separate;
+  text-decoration: none !important;
+  background-color: aliceblue;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-github{
+  background:grey;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
