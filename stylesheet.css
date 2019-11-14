@@ -5,7 +5,9 @@ html{
 
 body{
   background-color: black !important;
-  
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
 }
 
 a{
